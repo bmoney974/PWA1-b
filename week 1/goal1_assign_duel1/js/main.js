@@ -1,9 +1,9 @@
 /**
  * Created with JetBrains WebStorm.
  * User: bobbynewland
+ * PWA! Duel 1
  * Date: 9/5/13
- * Time: 9:15 PM
- * To change this template use File | Settings | File Templates.
+ * Time: 9:15 PM.
  */
 
 console.log("test");
