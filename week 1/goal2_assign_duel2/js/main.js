@@ -36,7 +36,7 @@ function fight() {
                 console.log(result);
             if (result ==="no winner"){
                 round++;
-                alert(playerOneName +  playerOneHealth + " Round " + round + " Over " + playerTwoName + playerTwoHealth);
+                alert(p1[0] +  p1[2] + " Round " + round + " Over " + p2[0] + p2[2]);
             }else{
                 alert (result);
                 break;
@@ -47,12 +47,12 @@ function fight() {
 };
     function winnerCheck(){
         var result = "no winner";
-        if (playerOneHealth < 1 && playerTwoHealth <1){
+        if (p1[2] < 1 && p2[2] <1){
             result = "You Both Die";
-        }else if(playerOneHealth < 1){
-            result = playerTwoName + "WINS !!";
-        }else if (playerTwoHealth < 1){
-            result = playerOneName + "WINS !!";
+        }else if(p1[2] < 1){
+            result = p2[0] + "WINS !!";
+        }else if (p2[2] < 1){
+            result = p1[0] + "WINS !!";
         }
        return result;
     }
