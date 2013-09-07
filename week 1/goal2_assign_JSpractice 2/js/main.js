@@ -100,17 +100,37 @@
 
     //--------------------------------------------------------
     console.log("5. how many vowels in a word");
+         var word = "JavaScript";
 
-        //PUT FUNCTION HERE
+         var  vowelFn = function(vowelCount){
+            var vowel = vowelCount.charAt(1,3,7);
+                result4 = vowel.length;
+             return result4;
 
-    console.log(vowelsInWord('JavaScript'));
+        };
+    console.log("test");
+    console.log("There are ",vowelFn(word),"vowels");
 
     //--------------------------------------------------------
     console.log("6. find number and create an array of even or odd numbers");
 
-        //PUT FUNCTION HERE
+        var num = [31,22,4,67,83,6,5,4];
+        var numb = num.split("");
 
-    console.log(findNum([31,22,4,67,83,6,5,4]));
-    console.log(findNum([31,22,4,67,83,6,5,4], false));
+        var findNum = function(pram1,pram2){
+          var oddnum = pram1.splice(0,3,4,6);
+          var evennum = pram1.splice(1,2,5,7);
+            var even = pram2;
+            result5= oddnum;
+            result6 = evennum;
+                if(even = true){
+                    return result6;
+                }else{
+                    return result5;
+                }
+        };
+
+    console.log(findNum(num,false));
+
 
 })();
