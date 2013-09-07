@@ -8,12 +8,12 @@
 
 console.log("test");
 
-var playerOneName = "Spiderman";
-var playerTwoName = "Batman";
-var playerOneHealth = 100;
-var playerTwoHealth = 100;
-var playerOneDamage = 50;
-var playerTwoDamage = 50;
+//var playerOneName = "Spiderman";
+//var playerTwoName = "Batman";
+//var playerOneHealth = 100;
+//var playerTwoHealth = 100;
+//var playerOneDamage = 50;
+//var playerTwoDamage = 50;
 var round =1;
 
 var p1 = ["Spiderman",50,100];
