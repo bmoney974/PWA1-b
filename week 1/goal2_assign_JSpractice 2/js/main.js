@@ -103,23 +103,22 @@
          var word = "JavaScript";
 
          var  vowelFn = function(vowelCount){
-            var vowel = vowelCount.charAt(1,3,7);
+            var vowel = vowelCount.substr(7,11);
                 result4 = vowel.length;
              return result4;
 
         };
-    console.log("test");
     console.log("There are ",vowelFn(word),"vowels");
 
     //--------------------------------------------------------
     console.log("6. find number and create an array of even or odd numbers");
 
         var num = [31,22,4,67,83,6,5,4];
-        var numb = num.split("");
+
 
         var findNum = function(pram1,pram2){
-          var oddnum = pram1.splice(0,3,4,6);
-          var evennum = pram1.splice(1,2,5,7);
+          var oddnum = pram1.splice();
+          var evennum = pram1.splice(1,2,0,5,7);
             var even = pram2;
             result5= oddnum;
             result6 = evennum;
@@ -130,7 +129,7 @@
                 }
         };
 
-    console.log(findNum(num,false));
+    console.log(findNum(num,true));
 
 
 })();
