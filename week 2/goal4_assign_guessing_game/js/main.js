@@ -16,7 +16,7 @@
 
 
     var dom= {
-           input: document.getElementById("input"),     // object lite
+           input: document.getElementById("input"),     // object literal
            output: document.querySelector("#output"),
            button: document.getElementById("button"),
             form: document.getElementById("theForm")
