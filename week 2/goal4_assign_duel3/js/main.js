@@ -15,7 +15,7 @@
    //var p1Arr = ["Spiderman",20,100];
    //var p2Arr = ["Batman",20,100];
 
-    var  p1Name = fgtObj.fightersObj[0]["name"];              // object references
+    var  p1Name = fgtObj.fightersObj[0]["name"];              // object ref
     var p1Health = fgtObj.fightersObj[0]["health"];
     var p1Damage = fgtObj.fightersObj[0]["damage"];
 
