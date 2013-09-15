@@ -35,7 +35,7 @@
     var guessCount = 2;    // guess count
 
 
-              var validateNumber = function(playerGuess){   // validate
+              var validateNumber = function(playerGuess){   // validate guess
 
                   console.log("Guess Count",guessCount);
 
