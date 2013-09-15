@@ -1,6 +1,7 @@
 /** Bobby Newland
  * Duel Fight Game - FINISHED
  * Date: 9/15/13
+ * duel 3
 
 */
 (function(){
