@@ -53,8 +53,7 @@
         var p1Score = document.querySelector("#kabal");  // player 1 score variable
         p1Score.innerHTML= ("Spiderman: " +p1Health );    // player 1 html output
 
-        // var scores = document.querySelector("#scores");
-        //scores.innerHTML =("kh");
+
 
         var p2Score = document.querySelector("#kratos");  // player 2 score variable
 
