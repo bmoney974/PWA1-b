@@ -10,7 +10,7 @@
 //Game variables
 (function (){
 
-    var randomNum = Math.floor((Math.random()*10) +1);     // random number
+    var randomNum = Math.floor((Math.random()*10) +1);     // random num
 
 
 
