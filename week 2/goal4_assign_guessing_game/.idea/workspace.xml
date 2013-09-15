@@ -1,37 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dbbb49d6-5d6e-4bfc-bead-ae29d05f9396" name="Default" comment="" />
-    <ignored path="goal4_assign_duel3.iws" />
+    <list default="true" id="0bd129dc-bc98-4c8a-bc27-7ddf02ede68d" name="Default" comment="" />
+    <ignored path="goal4_assign_guessing_game.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/main.js" changelist="dbbb49d6-5d6e-4bfc-bead-ae29d05f9396" time="1379285345875" ignored="false" />
-    <file path="$PROJECT_DIR$/../goal4_objects_DOM_events/js/main.js" changelist="dbbb49d6-5d6e-4bfc-bead-ae29d05f9396" time="1374206139902" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Wk1/goal3_assign_debug Test 2/js/search.js" changelist="dbbb49d6-5d6e-4bfc-bead-ae29d05f9396" time="1374291486717" ignored="false" />
-    <file path="/search.js" changelist="dbbb49d6-5d6e-4bfc-bead-ae29d05f9396" time="1374291421961" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Wk1/goal1_assign_duel2 FINAL /js/main.js" changelist="dbbb49d6-5d6e-4bfc-bead-ae29d05f9396" time="1374337370835" ignored="false" />
-    <file path="$PROJECT_DIR$/../goal4_assign_guessing_game/js/main.js" changelist="dbbb49d6-5d6e-4bfc-bead-ae29d05f9396" time="1374879533273" ignored="false" />
-    <file path="$PROJECT_DIR$/../goal4_assign_guessing_game/MagicNumber.html" changelist="dbbb49d6-5d6e-4bfc-bead-ae29d05f9396" time="1374814346092" ignored="false" />
-    <file path="/MagicNumber.html" changelist="dbbb49d6-5d6e-4bfc-bead-ae29d05f9396" time="1374814314195" ignored="false" />
-    <file path="$USER_HOME$/WebstormProjects/employee book activity /employee.html" changelist="dbbb49d6-5d6e-4bfc-bead-ae29d05f9396" time="1374373056697" ignored="false" />
-    <file path="/employee.html" changelist="dbbb49d6-5d6e-4bfc-bead-ae29d05f9396" time="1374373055426" ignored="false" />
-    <file path="$USER_HOME$/WebstormProjects/employee book activity /employee.js" changelist="dbbb49d6-5d6e-4bfc-bead-ae29d05f9396" time="1374374222878" ignored="false" />
-    <file path="/employee.js" changelist="dbbb49d6-5d6e-4bfc-bead-ae29d05f9396" time="1374374083708" ignored="false" />
-    <file path="$PROJECT_DIR$/../goal3_bug_scope/js/main.js" changelist="dbbb49d6-5d6e-4bfc-bead-ae29d05f9396" time="1374433497095" ignored="false" />
-    <file path="$USER_HOME$/WebstormProjects/text input book assign/text.html" changelist="dbbb49d6-5d6e-4bfc-bead-ae29d05f9396" time="1374426632607" ignored="false" />
-    <file path="/text.html" changelist="dbbb49d6-5d6e-4bfc-bead-ae29d05f9396" time="1374426631359" ignored="false" />
-    <file path="$USER_HOME$/WebstormProjects/text input book assign/text.js" changelist="dbbb49d6-5d6e-4bfc-bead-ae29d05f9396" time="1374427159715" ignored="false" />
-    <file path="/text.js" changelist="dbbb49d6-5d6e-4bfc-bead-ae29d05f9396" time="1374427159715" ignored="false" />
-    <file path="$PROJECT_DIR$/../modern_javascript_scripts/ch08/js/events.js" changelist="dbbb49d6-5d6e-4bfc-bead-ae29d05f9396" time="1374430578367" ignored="false" />
-    <file path="/events.js" changelist="dbbb49d6-5d6e-4bfc-bead-ae29d05f9396" time="1374430515249" ignored="false" />
-    <file path="$USER_HOME$/PWA1/goal6_assign_midterm/js/main.js" changelist="dbbb49d6-5d6e-4bfc-bead-ae29d05f9396" time="1374633079793" ignored="false" />
-    <file path="$USER_HOME$/PWA1/NOTES/goal1_basics/.idea/workspace.xml" changelist="dbbb49d6-5d6e-4bfc-bead-ae29d05f9396" time="1374631182448" ignored="false" />
-    <file path="$USER_HOME$/PWA1/NOTES/goal1_basics/.idea/modules.xml" changelist="dbbb49d6-5d6e-4bfc-bead-ae29d05f9396" time="1374631182448" ignored="false" />
-    <file path="$USER_HOME$/PWA1/NOTES/goal1_basics/.idea/encodings.xml" changelist="dbbb49d6-5d6e-4bfc-bead-ae29d05f9396" time="1374631182448" ignored="false" />
-    <file path="$USER_HOME$/PWA1/NOTES/goal1_basics/.idea/vcs.xml" changelist="dbbb49d6-5d6e-4bfc-bead-ae29d05f9396" time="1374631182448" ignored="false" />
-    <file path="$USER_HOME$/PWA1/NOTES/goal1_basics/.idea/misc.xml" changelist="dbbb49d6-5d6e-4bfc-bead-ae29d05f9396" time="1374631182448" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Wk1/goal2_assign_JSpractice/js/main.js" changelist="dbbb49d6-5d6e-4bfc-bead-ae29d05f9396" time="1374727706800" ignored="false" />
-    <file path="$PROJECT_DIR$/../goal4_assign_duel3 2/js/main.js" changelist="dbbb49d6-5d6e-4bfc-bead-ae29d05f9396" time="1379286007671" ignored="false" />
-    <file path="$USER_HOME$/Downloads/goal4_assign_guessing_game 2/MagicNumber.html" changelist="dbbb49d6-5d6e-4bfc-bead-ae29d05f9396" time="1379287826446" ignored="false" />
+    <file path="/main.js" changelist="0bd129dc-bc98-4c8a-bc27-7ddf02ede68d" time="1375409078629" ignored="false" />
+    <file path="/MagicNumber.html" changelist="0bd129dc-bc98-4c8a-bc27-7ddf02ede68d" time="1374814314195" ignored="false" />
+    <file path="$USER_HOME$/WebstormProjects/employee book activity /employee.html" changelist="0bd129dc-bc98-4c8a-bc27-7ddf02ede68d" time="1374373056697" ignored="false" />
+    <file path="/employee.html" changelist="0bd129dc-bc98-4c8a-bc27-7ddf02ede68d" time="1374373055426" ignored="false" />
+    <file path="$USER_HOME$/WebstormProjects/employee book activity /employee.js" changelist="0bd129dc-bc98-4c8a-bc27-7ddf02ede68d" time="1374374222878" ignored="false" />
+    <file path="/employee.js" changelist="0bd129dc-bc98-4c8a-bc27-7ddf02ede68d" time="1374374083708" ignored="false" />
+    <file path="$PROJECT_DIR$/../goal3_bug_scope/js/main.js" changelist="0bd129dc-bc98-4c8a-bc27-7ddf02ede68d" time="1374433497095" ignored="false" />
+    <file path="$USER_HOME$/WebstormProjects/text input book assign/text.html" changelist="0bd129dc-bc98-4c8a-bc27-7ddf02ede68d" time="1374426632607" ignored="false" />
+    <file path="/text.html" changelist="0bd129dc-bc98-4c8a-bc27-7ddf02ede68d" time="1374426631359" ignored="false" />
+    <file path="$USER_HOME$/WebstormProjects/text input book assign/text.js" changelist="0bd129dc-bc98-4c8a-bc27-7ddf02ede68d" time="1374427159715" ignored="false" />
+    <file path="/text.js" changelist="0bd129dc-bc98-4c8a-bc27-7ddf02ede68d" time="1374427159715" ignored="false" />
+    <file path="$PROJECT_DIR$/../modern_javascript_scripts/ch08/js/events.js" changelist="0bd129dc-bc98-4c8a-bc27-7ddf02ede68d" time="1374430578367" ignored="false" />
+    <file path="/events.js" changelist="0bd129dc-bc98-4c8a-bc27-7ddf02ede68d" time="1374430515249" ignored="false" />
+    <file path="$PROJECT_DIR$/../goal4_assign_duel3/js/main.js" changelist="0bd129dc-bc98-4c8a-bc27-7ddf02ede68d" time="1374809667566" ignored="false" />
+    <file path="$USER_HOME$/Downloads/goal6_assign_midterm/index.html" changelist="0bd129dc-bc98-4c8a-bc27-7ddf02ede68d" time="1374628068763" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Wk1/goal2_assign_JSpractice/js/main.js" changelist="0bd129dc-bc98-4c8a-bc27-7ddf02ede68d" time="1374727706800" ignored="false" />
+    <file path="/School Stuff/PWA1/goal6_assign_midterm/js/main.js" changelist="0bd129dc-bc98-4c8a-bc27-7ddf02ede68d" time="1375048079131" ignored="false" />
+    <file path="$USER_HOME$/Downloads/goal7_assign_obj_to_prototypes/js/main.js" changelist="0bd129dc-bc98-4c8a-bc27-7ddf02ede68d" time="1375409078629" ignored="false" />
+    <file path="$USER_HOME$/Downloads/goal7_assign_obj_to_prototypes/js/person.js" changelist="0bd129dc-bc98-4c8a-bc27-7ddf02ede68d" time="1375036852088" ignored="false" />
+    <file path="/person.js" changelist="0bd129dc-bc98-4c8a-bc27-7ddf02ede68d" time="1375036844904" ignored="false" />
+    <file path="$USER_HOME$/Downloads/goal4_objects_DOM_events/js/main.js" changelist="0bd129dc-bc98-4c8a-bc27-7ddf02ede68d" time="1375052581609" ignored="false" />
+    <file path="/script.js" changelist="0bd129dc-bc98-4c8a-bc27-7ddf02ede68d" time="1375055153079" ignored="false" />
+    <file path="$USER_HOME$/Downloads/goal5_RegEx_Math_Date/js/script.js" changelist="0bd129dc-bc98-4c8a-bc27-7ddf02ede68d" time="1375055242994" ignored="false" />
+    <file path="$PROJECT_DIR$/../goal5_assign_validation/js/validate.js" changelist="0bd129dc-bc98-4c8a-bc27-7ddf02ede68d" time="1375156127418" ignored="false" />
+    <file path="/validate.js" changelist="0bd129dc-bc98-4c8a-bc27-7ddf02ede68d" time="1375156038061" ignored="false" />
+    <file path="/School Stuff/PWA1/Newland_Bobby_Midterm/js/main.js" changelist="0bd129dc-bc98-4c8a-bc27-7ddf02ede68d" time="1375155034008" ignored="false" />
+    <file path="$USER_HOME$/Downloads/goal4_assign_guessing_game 2/js/main.js" changelist="0bd129dc-bc98-4c8a-bc27-7ddf02ede68d" time="1379287693458" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,14 +46,14 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="goal4_assign_duel3" />
+    <favorites_list name="goal4_assign_guessing_game" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="MagicNumber.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MagicNumber.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="82" selection-start="286" selection-end="286" vertical-scroll-proportion="0.36324787">
+            <state line="2" column="20" selection-start="29" selection-end="29" vertical-scroll-proportion="0.05940594">
               <folding />
             </state>
           </provider>
@@ -63,7 +62,7 @@
       <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="96" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0">
+            <state line="7" column="33" selection-start="99" selection-end="99" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -79,16 +78,16 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/MagicNumber.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="300" />
-    <option name="y" value="22" />
-    <option name="width" value="943" />
-    <option name="height" value="874" />
+    <option name="x" value="215" />
+    <option name="y" value="122" />
+    <option name="width" value="1077" />
+    <option name="height" value="677" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -120,27 +119,27 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="goal4_assign_duel3" />
+              <option name="myItemId" value="goal4_assign_guessing_game" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="goal4_assign_duel3" />
+              <option name="myItemId" value="goal4_assign_guessing_game" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="goal4_assign_duel3" />
+              <option name="myItemId" value="goal4_assign_guessing_game" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="goal4_assign_duel3" />
+              <option name="myItemId" value="goal4_assign_guessing_game" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="goal4_assign_duel3" />
+              <option name="myItemId" value="goal4_assign_guessing_game" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -155,8 +154,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/goal4_assign_guessing_game 2" />
-    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -172,20 +170,20 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="dbbb49d6-5d6e-4bfc-bead-ae29d05f9396" name="Default" comment="" />
-      <created>1374201834212</created>
-      <updated>1374201834212</updated>
+      <changelist id="0bd129dc-bc98-4c8a-bc27-7ddf02ede68d" name="Default" comment="" />
+      <created>1374358297773</created>
+      <updated>1374358297773</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="300" y="22" width="943" height="874" extended-state="0" />
-    <editor active="true" />
+    <frame x="215" y="122" width="1077" height="677" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14347826" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14231499" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -261,14 +259,7 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="97" selection-start="1181" selection-end="1181" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/MagicNumber.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
@@ -277,12 +268,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="124" column="43" selection-start="3460" selection-end="3460" vertical-scroll-proportion="0.0">
+        <state line="8" column="86" selection-start="100" selection-end="100" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/MagicNumber.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
@@ -291,12 +282,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="1" selection-start="687" selection-end="687" vertical-scroll-proportion="0.0">
+        <state line="77" column="10" selection-start="2556" selection-end="2556" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/MagicNumber.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
@@ -305,12 +296,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="1" selection-start="687" selection-end="687" vertical-scroll-proportion="0.0">
+        <state line="45" column="4" selection-start="835" selection-end="835" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/MagicNumber.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
@@ -319,12 +310,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="1" selection-start="687" selection-end="687" vertical-scroll-proportion="0.0">
+        <state line="46" column="68" selection-start="879" selection-end="879" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/MagicNumber.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
@@ -333,12 +324,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="108" selection-start="1564" selection-end="1564" vertical-scroll-proportion="0.0">
+        <state line="58" column="4" selection-start="2057" selection-end="2057" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/MagicNumber.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
@@ -347,12 +338,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="27" selection-start="1365" selection-end="1365" vertical-scroll-proportion="0.0">
+        <state line="12" column="111" selection-start="208" selection-end="208" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/MagicNumber.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
@@ -361,14 +352,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="96" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0">
+        <state line="8" column="22" selection-start="100" selection-end="100" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="82" selection-start="286" selection-end="286" vertical-scroll-proportion="0.36324787">
+        <state line="7" column="33" selection-start="99" selection-end="99" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MagicNumber.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="20" selection-start="29" selection-end="29" vertical-scroll-proportion="0.05940594">
           <folding />
         </state>
       </provider>
