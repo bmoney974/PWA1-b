@@ -28,7 +28,6 @@
 
 
 
-    //console.log(roundArea);
     console.log("FIGHT!!!");
 
 
@@ -36,15 +35,13 @@
 
     var round= 1;
     function fight(){
-       // alert(p1Arr[0]+":"+p1Arr[2]+"  *START*  "+p2Arr[0]+":"+p2Arr[2]);
-       // for (var i = 0; i < 10; i++)
-       // {
+
                            console.log("this is a test round",round);
 
-      // var  roundMove = 1;
+
         var roundArea = document.querySelector("#round");
         roundArea.innerHTML = ("Round "+ round+"<br>" + winnerCheck());
-        // console.log("this",roundMove++);
+
 
             var f1 = Math.floor(Math.random()*p1Damage + p1Damage *.5);    // math formula
             var f2 = Math.floor(Math.random()*p2Damage + p2Damage *.5);
@@ -98,6 +95,6 @@
 
     };
 
-    //fight();
+
 
 })();
