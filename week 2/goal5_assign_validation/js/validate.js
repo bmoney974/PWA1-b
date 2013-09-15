@@ -60,7 +60,7 @@
         };
     };
 
-})();  // end wrapper
+})();  // end wrap
 
 
 
