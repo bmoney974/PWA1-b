@@ -28,7 +28,7 @@
     };
 
 
-    var validateField = function(inputName){   // validate functi
+    var validateField = function(inputName){   // validate function
 
         if (inputName.name === "f_username"){  // username input validation
             var pattern = /^[A-Z\s^A-Z$]/;
