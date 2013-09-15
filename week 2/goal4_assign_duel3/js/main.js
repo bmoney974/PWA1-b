@@ -72,15 +72,7 @@
             console.log(result);
             if (result==="Next Round")
             {
-//                var myCtr = 0;
-//                var myCounter1 = function(newct){
-//                      myCtr = (newct)+1;
-//                    console.log("function ",(myCtr++));
-//                };
-//
-//                myCounter1(1);
-//                //alert(p1Name+":"+p1Health+"  *ROUND "+round+" OVER"+"*  "+p2Name+":"+p2Health)
-// ;
+
                 round++;
             } else{
 
