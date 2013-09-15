@@ -59,8 +59,7 @@
 
         p2Score.innerHTML =( "Batman: " +p2Health);     // player 2 score html   output
 
-//        var totalResult =  document.querySelector("scores active");
-//        totalResult.innerHTML = (+ winnerCheck());
+
 
         //inflict damage
             p1Health-=f1;
