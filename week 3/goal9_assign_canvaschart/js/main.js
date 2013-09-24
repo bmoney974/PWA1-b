@@ -7,7 +7,7 @@
 console.log("start canvas");
 
 (function(){
-    var canvas = document.createElement("canvas");     //draw canvas
+    var canvas = document.createElement("canvas");
     canvas.width = 400;
     canvas.height =300;
     document.body.appendChild(canvas);
